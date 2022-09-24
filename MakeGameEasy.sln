@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeGameEasy", "MakeGameEasy\MakeGameEasy.csproj", "{15D059D3-6D89-4C90-A4FA-32B8BC84677B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15D059D3-6D89-4C90-A4FA-32B8BC84677B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15D059D3-6D89-4C90-A4FA-32B8BC84677B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15D059D3-6D89-4C90-A4FA-32B8BC84677B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15D059D3-6D89-4C90-A4FA-32B8BC84677B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAB88373-B314-4639-8CC7-9512802A7CEB}
+	EndGlobalSection
+EndGlobal
